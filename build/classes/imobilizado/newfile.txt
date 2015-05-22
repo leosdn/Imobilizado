@@ -1,0 +1,6 @@
+https://linguagensdeprogramacao.wordpress.com/2011/10/19/design-patterns-%E2%80%93-observer-java/
+http://www.devmedia.com.br/o-padrao-de-projeto-observer-revista-easy-java-magazine-12/22861
+http://pt.stackoverflow.com/questions/36655/como-funciona-e-como-implementar-o-design-pattern-observer
+http://www.devmedia.com.br/o-padrao-observer-e-swing/5719
+http://www.administradores.com.br/noticias/negocios/a-formula-para-voce-comecar-um-negocio-do-zero-hoje/101039/
+http://revistapegn.globo.com/Noticias/noticia/2014/05/10-licoes-do-crime-para-o-empreendedorismo.html
